@@ -1,1 +1,0 @@
-## Laravel - BlogQL Course with Vue, GraphQL and Tailwind

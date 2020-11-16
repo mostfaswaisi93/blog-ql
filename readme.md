@@ -1,1 +1,1 @@
-## Laravel - BlogQL Course with Vue, GraphQL and Tailwind
+## Laravel - BlogQL with Vue, GraphQL, and Tailwind
